@@ -1,2 +1,1 @@
-# rapports
-This section is for my statistical project
+Here you can see my internship report :
